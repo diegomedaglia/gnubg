@@ -75,3 +75,5 @@ compile
 *.la
 .dirstamp
 typescript
+build/
+.vscode/
